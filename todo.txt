@@ -1,0 +1,1 @@
+** reparar lectura de base de datos caracteres utf-8
